@@ -1,5 +1,5 @@
 Description
-Sigma Ghost is a multi-purpose offensive security tool designed for ethical hacking and penetration testing. It combines three critical modules in a single intuitive GUI:
+Sigma Ghost is a multi-purpose offensive security tool designed for black hat hacking and attacking testing. It combines three critical modules in a single intuitive GUI:
 
 SSH Bruteforce: Credential cracking with proxy support
 
