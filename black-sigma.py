@@ -35,7 +35,7 @@ BANNER = r"""
                                                                            
 """
 
-TELEGRAM_URL = "https://web.telegram.org/k/#@Sigma_Ghost_hacking"
+TELEGRAM_URL = "https://web.telegram.org/k/#@Sigma_Ghost"
 GITHUB_URL = "https://github.com/sigma-cyber-ghost"
 
 class MatrixTerminal(scrolledtext.ScrolledText):
