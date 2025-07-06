@@ -17,7 +17,7 @@ Python 3.6+
 Linux/macOS (Windows not recommended)
 
 PIP COMMMAND ===> # Install dependencies
-pip install paramiko requests beautifulsoup4 colorama
+pip install paramiko requests beautifulsoup4 colorama pysocks
 
 # For GUI support (if not installed)
 sudo apt-get install python3-tk  # Debian/Ubuntu
